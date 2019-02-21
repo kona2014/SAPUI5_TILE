@@ -38,16 +38,11 @@
 			"info" : "Please ~ !!"
 		},
 		{
-			"type" : "Create",
-			"title" : "Create Purchase Order",
-			"info" : "890€ Open Budget",
-			"infoState" : "Success"
-		},
-		{
-			"icon" : "sap-icon://stethoscope",
-			"number" : "3",
-			"title" : "Yearly Health Check",
-			"info" : "3 year overdue",
+			"icon" : "sap-icon://outgoing-call",
+			"number" : "01085235045",
+			"numberUnit" : "dams80@hanmail.net",
+			"title" : "전화/이메일",
+			"info" : "Call me please",
 			"infoState" : "Error"
 		},
 		{
