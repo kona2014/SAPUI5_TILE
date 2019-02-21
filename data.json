@@ -24,20 +24,18 @@
 			"title" : "예상기온",
 			"info" : "Good day to with us" 
 		},
-		
 		{
-			"icon" : "sap-icon://travel-expense-report",
-			"number" : "281",
-			"numberUnit" : "euro",
-			"title" : "Travel Reimbursement",
-			"info" : "1 day ago"
+			"icon" : "sap-icon://taxi",
+			"number" : "3600",
+			"numberUnit" : "KRW",
+			"title" : "서울시 택시요금 올랐다",
+			"info" : "from 2019/02/16"
 		},
 		{
-			"icon" : "sap-icon://loan",
-			"number" : "2380",
-			"numberUnit" : "euro",
-			"title" : "My Salary",
-			"info" : "8 days ago"
+			"icon" : "sap-icon://thumb-up",
+			"type" : "Monitor",
+			"title" : "2019/04/11 임시공휴일 추진",
+			"info" : "Please ~ !!"
 		},
 		{
 			"type" : "Create",
