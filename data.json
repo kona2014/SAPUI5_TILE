@@ -74,13 +74,6 @@
 		{
 			"icon" : "sap-icon://calendar",
 			"title" : "Team Calendar"
-		},
-		{
-			"icon" : "sap-icon://pie-chart",
-			"number" : "5",
-			"title" : "Financial Reports",
-			"info" : "4 day ago",
-			"infoState" : "Warning"
 		}
 	]
-}
+} 
