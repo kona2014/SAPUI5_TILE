@@ -18,6 +18,11 @@
 			"title" : "사당역(Sadang Station)"
 		},
 		{
+			"icon" : "sap-icon://meal",
+			"type" : "Monitor",
+			"title" : "Meal Schedule(준비중)"
+		},
+		{
 			"icon" : "sap-icon://temperature",
 			"number" : "High 10℃",
 			"numberUnit" : "Low 1℃",
@@ -39,36 +44,19 @@
 		},
 		{
 			"icon" : "sap-icon://outgoing-call",
-			"number" : "01085235045",
-			"numberUnit" : "dams80@hanmail.net",
-			"title" : "전화/이메일",
+			"number" : "",
+			"numberUnit" : "",
+			"title" : "010-8523-5045",
 			"info" : "Call me please",
 			"infoState" : "Error"
 		},
 		{
-			"icon" : "sap-icon://meal",
-			"type" : "Monitor",
-			"title" : "Meal Schedule"
-		},
-		{
-			"icon" : "sap-icon://cart",
-			"number" : "787",
-			"numberUnit" : "euro",
-			"title" : "My Shopping Carts",
-			"info" : "Waiting for Approval",
+			"icon" : "sap-icon://money-bills",
+			"number" : "2000",
+			"numberUnit" : "KRW/10min",
+			"title" : "당구비 챙겨오세요",
+			"info" : "패자는 카운터로",
 			"infoState" : "Warning"
-		},
-		{
-			"icon" : "sap-icon://factory",
-			"number" : "2",
-			"numberUnit" : "Outages",
-			"title" : "Factory Power Management",
-			"info" : "Production On Hold",
-			"infoState" : "Error"
-		},
-		{
-			"icon" : "sap-icon://calendar",
-			"title" : "Team Calendar"
 		}
 	]
 } 
