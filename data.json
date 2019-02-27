@@ -15,8 +15,7 @@
 		{
 			"icon" : "sap-icon://functional-location",
 			"type" : "Monitor",
-			"title" : "사당역(Sadang Station) 11번 출구",
-			"info" : "물조은선주회집(도보 1분,300m)"
+			"title" : "사당역(Sadang Station) 11번 출구"
 		},
 		{
 			"icon" : "sap-icon://meal",
