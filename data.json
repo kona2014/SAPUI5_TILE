@@ -15,12 +15,13 @@
 		{
 			"icon" : "sap-icon://functional-location",
 			"type" : "Monitor",
-			"title" : "사당역(Sadang Station)"
+			"title" : "사당역(Sadang Station) 11번 출구",
+			"info" : "물조은선주회집(도보 1분, 300m)",
 		},
 		{
 			"icon" : "sap-icon://meal",
 			"type" : "Monitor",
-			"title" : "Meal Schedule(준비중)"
+			"title" : "Fish & Alcohol"
 		},
 		{
 			"icon" : "sap-icon://temperature",
